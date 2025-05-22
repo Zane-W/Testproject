@@ -2,6 +2,7 @@
 using System.Collections;
 using UnityEngine.AI;
 
+//这是一个测试用的备注
 public class TestAI : MonoBehaviour
 {
     public delegate Vector3 RefreshTargetDelegate();
